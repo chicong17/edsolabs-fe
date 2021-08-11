@@ -16,7 +16,7 @@ span:last-child{
 	color: #380bf2;
 	background-color: #ffff00;
 }
-span:first-child{
+span:nth-child(5){
 	color: #380bf2;
 	background-color: #ffff00;
 }
